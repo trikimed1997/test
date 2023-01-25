@@ -1,6 +1,5 @@
 import time
 
-
 class testClass:
 
     def test_function():
