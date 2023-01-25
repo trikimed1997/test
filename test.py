@@ -12,7 +12,7 @@ class testClass:
             print("! Test completed !")
 
         except:
-            print("Something went wrong, please heck input !")
+            print("Something went wrong, please check input !")
 
 
 if __name__ == __name__:
