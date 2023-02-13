@@ -1,5 +1,6 @@
 import time
 
+
 class testClass:
 
     def test_function():
@@ -14,7 +15,7 @@ class testClass:
         except:
             print("Something went wrong, please check input !")
 
-#test_branch committed
+
+# test_branch committed
 if __name__ == __name__:
     testClass.test_function()
- 
