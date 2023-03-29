@@ -18,3 +18,4 @@ class testClass:
 #This is edited locally.
 if __name__ == __name__:
     testClass.test_function()
+    
